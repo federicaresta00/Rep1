@@ -1,4 +1,4 @@
-state_id	state_name	year	mortality_by_road_traffic	gdp	inflation	unemployment	net_migration
+state_id,	state_name,	year,	mortality_by_road_traffic,	gdp,	inflation,	unemployment,	net_migration,
 1	Estonia	2003	13.60	7205.41	1.33	11.29	-3705
 1	Estonia	2004	13.90	8916.07	3.05	10.25	-3681
 1	Estonia	2005	14.70	10414.64	4.08	8.03	-5208
